@@ -2,9 +2,12 @@
   "name": "beach-resort-app",
   "version": "0.1.0",
   "private": true,
+  "homepage":"https://mj-git.github.io/beach-resort",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-icons": "^3.6.1",
+    "react-router-dom": "^5.0.0",
     "react-scripts": "3.0.0"
   },
   "scripts": {
