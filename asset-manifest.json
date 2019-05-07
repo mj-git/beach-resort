@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/beach-resort/static/css/main.16b62ba2.chunk.css",
+    "main.js": "/beach-resort/static/js/main.f7dd105b.chunk.js",
+    "main.js.map": "/beach-resort/static/js/main.f7dd105b.chunk.js.map",
+    "runtime~main.js": "/beach-resort/static/js/runtime~main.ff43087a.js",
+    "runtime~main.js.map": "/beach-resort/static/js/runtime~main.ff43087a.js.map",
+    "static/js/2.fe53002e.chunk.js": "/beach-resort/static/js/2.fe53002e.chunk.js",
+    "static/js/2.fe53002e.chunk.js.map": "/beach-resort/static/js/2.fe53002e.chunk.js.map",
+    "index.html": "/beach-resort/index.html",
+    "precache-manifest.dccbfbc5a6186c1c826c9851a375b8d6.js": "/beach-resort/precache-manifest.dccbfbc5a6186c1c826c9851a375b8d6.js",
+    "service-worker.js": "/beach-resort/service-worker.js",
+    "static/css/main.16b62ba2.chunk.css.map": "/beach-resort/static/css/main.16b62ba2.chunk.css.map",
+    "static/media/App.css": "/beach-resort/static/media/room-2.052c7681.jpeg",
+    "static/media/logo.svg": "/beach-resort/static/media/logo.9f0cccc1.svg"
+  }
+}
